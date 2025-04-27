@@ -16,18 +16,15 @@ Este é um sistema de agente de atendimento do tipo AI utilizando ChatGPT. O sis
 - Flask
 - SQLAlchemy
 - SQLite
-- Flask-Migrate
-- Flask-Script
-- Flask-RESTful
-- Flask-JWT-Extended
-- Flask-Cors
-- Flask-JWT-Extended
-- Flask-Cors
-- Flask-SQLAlchemy
+- OpenAI API
 
-# Bibliotecas utilizadas
-
-
+# Bibliotecas LangChain utilizadas no agent1/app.py
+- langchain_openai 
+- langchain_community.vectorstores 
+- langchain.chains
+- langchain.memory
+- langchain.docstore.document
+- langchain.schema
 
 ## Configuração
 1. Clone o repositório
