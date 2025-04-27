@@ -1,0 +1,7 @@
+flask
+langchain
+openai
+python-dotenv
+faiss-cpu
+pyyaml
+sqlite3

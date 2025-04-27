@@ -1,0 +1,9 @@
+.env
+config.yaml
+*.db
+__pycache__/
+*.py[cod]
+*.class
+venv/
+env/
+.DS_Store
